@@ -152,4 +152,4 @@ user1.email = 'joao-editado@gmail.com'
 
 update_user(user1)
 
-delete_cart()
+delete_cart(cart1.ID_cart_code)
